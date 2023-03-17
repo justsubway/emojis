@@ -1,0 +1,12 @@
+on chat:
+    replace all "o/" in message with "(ಠ!ಠ)/"
+    replace all ":idk:" in message with "¯\_(ツ)_/¯"
+    replace all ":bruh:" in message with "ಠ_ಠ"
+    replace all ":fighter:" in message with "(ง’̀-‘́)ง"
+    replace all ":panda:" in message with "ʕ •ᴥ•ʔ"
+    replace all ":skull:" in message with "☠"
+    replace all ":music:" in message with "♫"
+    replace all ":heart:" in message with "❤"
+    replace all ":pvp:" in message with "⚔️"
+    replace all ":peace:" in message with "☮"
+    replace all ":smile:" in message with "ツ"
